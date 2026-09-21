@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Glasson;Ethen;;;
+FN:Ethen Glasson
+ORG:Cardinal CG;CG Technology Center
+TITLE:Technical Services Lab Tech II
+TEL;TYPE=CELL,VOICE:+16085748527
+TEL;TYPE=WORK,VOICE:+16085883723
+EMAIL;TYPE=WORK,INTERNET:eglasson@cardinalcorp.com
+URL:https://www.cardinalcorp.com
+ADR;TYPE=WORK:;;140 South Wood Street;Spring Green;WI;53588;USA
+END:VCARD
